@@ -25,7 +25,7 @@ SECRET_KEY = 'pvg=^%!!2k^a+36p&*ko1dkkout6+s-2w3#n4vso7%7qg%(j^2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['172-31-42-173']
+ALLOWED_HOSTS = ['13.58.227.117']
 
 
 # Application definition
