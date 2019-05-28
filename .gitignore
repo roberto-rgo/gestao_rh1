@@ -5,3 +5,5 @@ venv
 gestao_rh/__pycache__/
 gestao_rh.pem
 gestao_rh1.pem
+media
+static
